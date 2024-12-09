@@ -1,4 +1,4 @@
-<h1>Hi, I'm Álvaro Sierra 🙌:</h1>
+<h1>Hi, I'm Álvaro Sierra 🙌</h1>
 
 ## About Me:
 
@@ -6,8 +6,9 @@ I'm a full stack developer, focused on build new things and sharpening my skills
 
 I've been working with technology since 2019. I started with automation projects, mainly Siemens PLC programming in KOP/Ladder. Nowadays, I build web applications, either from scratch or by expanding an existing application.
 
-  - 📫: Email me asp.sierra@gmail.com
-  - 📝: See my Resume
+  - ✨ In my free time I play the clarinet in a local music band.
+  - 📫: Email me asp.sierra@gmail.com.
+  - 📝: See my [Resume](CV_Alvaro_Sierra.pdf).
 
 ## Tech Stack 👨‍💻::
 These are some of the technologies I've used so far
